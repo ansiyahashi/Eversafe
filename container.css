@@ -1,0 +1,47 @@
+hr {
+  color: green;
+}
+div#content,
+div#content:active {
+  outline: none !important;
+}
+.form-label {
+  background: transparent !important;
+
+  outline-style: none !important;
+
+  border-top: none !important;
+
+  border-left: none !important;
+
+  border-right: none !important;
+
+  border-bottom: solid #000000 1px;
+
+  box-shadow: 0 0 0 !important;
+
+  -webkit-box-shadow: 0 0 0 !important;
+}
+
+.containerform {
+}
+
+.card {
+  border: gold;
+}
+body {
+  background: #000;
+}
+
+a {
+  color: azure;
+  font-family: Arial, sans-serif;
+  font-size: bold;
+}
+:root {
+}
+.fa {
+  position: relative;
+  top: 50%;
+  left: 15%;
+}
